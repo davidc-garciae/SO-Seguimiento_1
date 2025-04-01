@@ -3,7 +3,7 @@
 |Integrante|correo|usuario github|
 |---|---|---|
 |David Camilo García Echavarría|davidc.garcia@udea.edu.co|davidc-garciae|
-|Nombre completo integrante 2|correo integrante 2|gihub user integrante 2|
+|Cristian David Tamayo Espinosa|cristian.tamayoe@udea.edu.co|CrissPr|
 
 ## Instrucciones 📝
 
